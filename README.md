@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PSYcoms
-- 👀 I’m interested in Competitive Coding & Web development basically MERN stack engineer and computer vision projects.
-- 🌱 I’m currently learning MERN and strngthening Data Structure and Algorithms and openCV.
+- 👀 I’m Passionate about coding with great orientation towards Data Structures and Algorithms. 
+- ✌  I’m into Web development (MERN stack) and computer vision projects.
+- 🌱 I’m currently learning MERN and strengthening Data Structure and Algorithms and openCV.
 - 💞️ I’m looking to collaborate on Web development projects and meeting like minded people.
 
 <!---
